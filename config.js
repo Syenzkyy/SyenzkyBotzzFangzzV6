@@ -1,5 +1,6 @@
 // S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  FANGZ🌱  
+// M A D E  B Y  FANGZ 🌱  
+// R E C O R D  B Y  SYENZKY 🪐
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -12,6 +13,7 @@
 // • FangzBot
 // • Rasel comel
 // • Xtreshe (Beban)
+// • Syenzkyy (Tukang Recode)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -45,11 +47,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/Fangzbotz2007'
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM'
-global.sdc = 'https://s.id/Fangzganz'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/syenzky'
+global.sgh = 'https://github.com/Syenzkyy'
+global.sgc = 'https://chat.whatsapp.com/LLOyCqyyeMGBfVQRDeIK0q'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '088215689772'
@@ -60,18 +62,18 @@ global.ppulsa2 = '0895394988123'
 global.psaweria = 'https://saweria.co/FangzBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
-global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
-global.nameown = 'Fangz Ganz'
+global.nomorbot = '60179630068'
+global.nomorown = '60109561479'
+global.namebot = ' 「 SYENZKY BOT V6 ⁩㊣ 」'
+global.nameown = 'Syenzky Yenzz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288215689772'],
-  ['62895336282144'],
-  ['6288215689772'],
-  ['6288215689772', 'Fangz Ganz', true]
+  ['601121151150', 'Kidzz • Admin Syenzky Bot'],
+  ['60136796473', 'S • Admin Syenzky Botz],
+  ['60179630068', 'Yenkid • Moderator Syenzky Bot'],
+  ['60109561479', 'Syenzkyy • Owner && Developer Syenzky Bot', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,21 +119,21 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Fangz BOT あ⁩ 」' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ FangzBOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '                「 Syenzky BOT あ⁩ 」' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ SyenzkyBOT-Md¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '⫹⫺ Syenzky 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By FANGZ'
-global.author = '       ┄┄┄┅┅❑ FANGZ ❑┅┅┄┄┄'
+global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By SYENZKY'
+global.author = '       ┄┄┄┅┅❑ SYENZKY ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/e535be94a86c77e1eb4ee.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/0f572ab6a7180cc9c52ee.jpg'
-global.thumbbc = 'https://telegra.ph/file/0f572ab6a7180cc9c52ee.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/4da26de483d484af684e8.mp4'
+global.thumb = 'https://telegra.ph/file/ab68380bb0aa70a2996af.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/ab68380bb0aa70a2996af.jpg'
+global.thumbbc = 'https://telegra.ph/file/ab68380bb0aa70a2996af.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/ab68380bb0aa70a2996af.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
@@ -177,7 +179,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `By Fangz BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `By Syenzky BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
